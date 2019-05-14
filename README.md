@@ -5,5 +5,8 @@ Stuffy Librarian was originally developed by me, David T. Dassau, as a single-us
 
 - Adding a new media item to your inventory, via the iTunes API. These could be books, DVDs, Blu-Rays, CDs, vinyl, etc.
 - A user had full CRUD capabilities with their inventory. They could edit any aspect of an existing item, view all inventory or a specific item, or remove an item from their inventory permanently.
+- There were two cornerstones of Stuff Librarian that would potentially set it apart from other personal inventory trackers
+  - do this
+  - do that
 
 If you would like to view the ReadMe, or any other information regarding the very first version of Stuffy Librarian, please visit https://github.com/daviddassau/StuffyLibrarian
