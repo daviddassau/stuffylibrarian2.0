@@ -3,7 +3,7 @@ The new and improved Stuffy Librarian, a mixed-media inventory tracker, develope
 
 Stuffy Librarian was originally developed by me, David T. Dassau, as a single-user application for the full-stack capstone project I needed to complete in order to graduate from the Nashville Software School. Original functionality included:
 
-- View the Homepage which included your most recently added items. The user could also view in chart-form how many of each media type they own, and how many of each media type they have leant out.
+- View the Homepage which included your most recently added items. The user could also view in chart-form how many of each media type they own, and how many of each media type they have lent out.
 - Adding a new media item to your inventory, via the iTunes API. These could be books, DVDs, Blu-Rays, CDs, vinyl, etc.
 - A user had full CRUD capabilities with their inventory. They could edit any aspect of an existing item, view all inventory or a specific item, or remove an item from their inventory permanently.
 - There were two cornerstones of Stuff Librarian that would potentially set it apart from other personal inventory trackers:
