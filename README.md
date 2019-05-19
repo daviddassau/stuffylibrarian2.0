@@ -12,5 +12,3 @@ Stuffy Librarian was originally developed by me, David T. Dassau, as a single-us
   - Both the lend and sold feature are meant to serve a similar purpose, which is to help a user keep track of the items that are not currently in their possession.
 
 If you would like to view the ReadMe, or any other information regarding the very first version of Stuffy Librarian, please visit https://github.com/daviddassau/StuffyLibrarian
-
-## Scope
